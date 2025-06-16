@@ -1,0 +1,8 @@
+streamlit
+langchain==0.3.25
+google-ai-generativelanguage==0.6.18
+requests
+sounddevice
+soundfile
+pygame
+dotenv

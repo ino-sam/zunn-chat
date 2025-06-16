@@ -1,0 +1,6 @@
+.env
+*.log
+tmp/
+*.tmp
+secrets.json
+config.json
